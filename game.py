@@ -7,7 +7,6 @@ import pygame
 from ui import Button, draw_input_box
 from config import *
 import random
-import pygame
 from config import *
 import re
 
